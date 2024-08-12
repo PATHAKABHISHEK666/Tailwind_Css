@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.section_container {
+  @apply md:px-14  px-[1.4rem];
+}
